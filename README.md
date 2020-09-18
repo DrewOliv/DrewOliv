@@ -11,4 +11,4 @@ Javascript | Angular | Vue | Figma | Coldfusion
 💻 Atualmente trabalho com Angular <br>
 🎓 Cursando sistemas para Internet<br>
 
-Obrigada pela visita!
+Vlw pela visita! 🤙
